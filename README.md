@@ -1,20 +1,29 @@
-# Projeto: Site de Empresa Fictícia
+# Oi, eu sou a Nat 👋
 
-## Objetivo
-Criar uma página web simulando o site institucional de uma empresa fictícia, como atividade de prática no início da formação em Análise e Desenvolvimento de Sistemas.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
+🚀 Aspirante a **Desenvolvedora Web**  
+💻 Foco em **Tecnologia**
 
-## Tecnologias utilizadas
-- HTML
-- CSS
-- Git
-- GitHub
+## Sobre mim
+- Estou iniciando minha trajetória na área de TI, construindo meu portfólio acadêmico e profissional.  
+- Tenho interesse em desenvolvimento web, com foco em Full Stack e lógica de programação.  
+- Busco constantemente aprender e aplicar boas práticas em meus estudos e projetos.  
 
-## O que eu aprendi
-- Como organizar a estrutura de um site com HTML
-- Aplicar estilos básicos com CSS
-- Controlar versões do projeto usando Git e GitHub
-- Entender a lógica por trás da construção de uma página estática
+## Tecnologias que estou aprendendo
+- **HTML**  
+- **CSS**  
+- **Git & GitHub**  
+- **Lógica de Programação**
+
+## Objetivos
+- Evoluir no desenvolvimento web (HTML, CSS e JavaScript).  
+- Criar projetos práticos para consolidar o aprendizado.  
+- Atuar futuramente como desenvolvedora júnior em TI.  
+
+## Como falar comigo
+📌 [LinkedIn](https://www.linkedin.com/in/natalia-santos-de-souza-44464a378)  
+ 
 
 ---
 
-📁 Este projeto faz parte da atividade prática de portfólio acadêmico, com foco em desenvolvimento web e aprendizado inicial da área de tecnologia.
+⭐ *Este perfil faz parte do meu portfólio acadêmico em ADS.*
