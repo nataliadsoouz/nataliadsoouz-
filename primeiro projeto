@@ -1,0 +1,23 @@
+# Projeto — Site Base em HTML5
+
+Este projeto é uma versão adaptada do [HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate), 
+que fornece uma estrutura inicial para páginas web em **HTML5** e **CSS**.
+
+## Objetivo
+- Praticar a organização de um projeto web.  
+- Entender a estrutura básica de arquivos (HTML, CSS, JS).  
+- Aprender a usar GitHub para versionar e documentar código.
+
+## Tecnologias Utilizadas
+- HTML5
+- CSS3
+- JavaScript (estrutura inicial)
+
+## Fonte
+O código original foi retirado do repositório público:  
+👉 [HTML5 Boilerplate - GitHub](https://github.com/h5bp/html5-boilerplate)
+
+## O que aprendi
+- Estruturar arquivos de um site.  
+- Usar boas práticas iniciais de HTML e CSS.  
+- Documentar um projeto no GitHub com `README.md`.
